@@ -7,7 +7,7 @@ flutter是Google在2018年发布的跨平台移动UI框架，使用编程语言D
 # 合集
 列出了项目中所用的控件和功能点
 
-![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/xmind.png) 
+![image](https://github.com/SFHGHub/FlutterMui/raw/master/resource/xmind.png) 
 
 # 使用前提
 需要搭建好flutter的运行环境
@@ -15,7 +15,7 @@ flutter是Google在2018年发布的跨平台移动UI框架，使用编程语言D
 
 # 项目结构
 
-![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/project_banner.png) 
+![image](https://github.com/SFHGHub/FlutterMui/raw/master/resource/project_banner.png) 
 
 # 使用说明
 
@@ -23,24 +23,24 @@ flutter是Google在2018年发布的跨平台移动UI框架，使用编程语言D
 
 第一部分，基础控件
 
-![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/base.gif)
+![image](https://github.com/SFHGHub/FlutterMui/raw/master/resource/base.gif)
 
 
 
 第二部分，布局控件
 
-![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/layout.gif)
+![image](https://github.com/SFHGHub/FlutterMui/raw/master/resource/layout.gif)
 
 
 
 第三部分，功能实例
 
-![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/founction.gif)
+![image](https://github.com/SFHGHub/FlutterMui/raw/master/resource/founction.gif)
 
 
 # 用到的第三方依赖
 
-![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/dependencies.png)
+![image](https://github.com/SFHGHub/FlutterMui/raw/master/resource/dependencies.png)
 
 
 
