@@ -16,11 +16,24 @@ flutter是Google在2018年发布的跨平台移动UI框架，使用编程语言D
 项目结构分为三部分，基础控件、布局控件和功能实例，如下：
 
 第一部分，基础控件
+
 ![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/base.gif)
 
+
+
 第二部分，布局控件
+
 ![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/layout.gif)
 
+
+
 第三部分，功能实例
+
 ![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/founction.gif)
+
+
+# 用到的第三方依赖
+
+![image](https://github.com/SFHGHub/FlutterMui/raw/master/readme_pic/dependencies.png)
+
 
